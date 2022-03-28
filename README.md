@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tekibonvi
 - 👀 I’m interested in Learn
-- 🌱 I’m currently learning Python, MySQL
+- 🌱 I’m currently learning Python, Django,AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
