@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tekibonvi
-- 👀 I’m interested in Learn Docker, K8s,AWS
-- 🌱 I’m currently learning Python, Django
+- 👀 I’m interested in Learn JS and Python👀
+- 🌱 I’m currently learning Javascript,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
