@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tekibonvi
 - 👀 I’m interested in Learn React,Js and C# w/ .NET for backEnd 
-- 🌱 I’m currently learning React, and .NET,
+- 🌱 I’m currently learning C#, and .NET,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
